@@ -5363,3 +5363,4 @@ zipkin/
 zone-h.php
 ~/
 ~admin/
+/pdb/query/v4/resources
